@@ -1,4 +1,4 @@
-# dwarvish
+# dwarvish or dwarvi.sh
 
 Dwarvish is an Ancient Programming language and interactive shell discovered by archaeologists. These ancient magiks have hidden powers:
     
